@@ -9,6 +9,8 @@ Hello! I'm Matthieu, a graduated software engineer based in Toulouse (France) wh
 
 <br />
 
-<img align="left" src="https://github-readme-stats-kir6q1p53-matthieu-locussol.vercel.app/api?username=matthieu-locussol&title_color=64FFDA&bg_color=0A192F&text_color=E6F1FF&border_color=64FFDA&show_icons=true&include_all_commits=true&count_private=true&icon_color=64FFDA" width="420" />
+<p>
+  <img align="left" src="https://github-readme-stats-kir6q1p53-matthieu-locussol.vercel.app/api?username=matthieu-locussol&title_color=64FFDA&bg_color=0A192F&text_color=E6F1FF&border_color=64FFDA&show_icons=true&include_all_commits=true&count_private=true&icon_color=64FFDA" width="420" />
 
-<img align="right" src="https://github-readme-stats-kir6q1p53-matthieu-locussol.vercel.app/api/top-langs/?username=matthieu-locussol&title_color=64FFDA&bg_color=0A192F&text_color=E6F1FF&border_color=64FFDA&layout=compact&langs_count=6" height="165" />
+  <img align="right" src="https://github-readme-stats-kir6q1p53-matthieu-locussol.vercel.app/api/top-langs/?username=matthieu-locussol&title_color=64FFDA&bg_color=0A192F&text_color=E6F1FF&border_color=64FFDA&layout=compact&langs_count=6" height="165" />
+</p>
