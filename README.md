@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Matthieu! 👋
+---
+<p align="center">
+  <img src="https://github-readme-stats-kir6q1p53-matthieu-locussol.vercel.app/api?username=matthieu-locussol&title_color=64FFDA&bg_color=0A192F&text_color=E6F1FF&border_color=64FFDA&show_icons=true&include_all_commits=true&count_private=true&icon_color=64FFDA" width="480"/>
+  <img src="https://github-readme-stats-kir6q1p53-matthieu-locussol.vercel.app/api/top-langs/?username=matthieu-locussol&title_color=64FFDA&bg_color=0A192F&text_color=E6F1FF&border_color=64FFDA&layout=compact&langs_count=6" width="480" height="190" />
+</p>
 
 <!--
 **matthieu-locussol/matthieu-locussol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
