@@ -14,3 +14,6 @@ Hello! I'm Matthieu, a graduated software engineer based in Toulouse (France) wh
 
   <img align="right" src="https://matthieu-locussol-github-stats.vercel.app/api/top-langs/?username=matthieu-locussol&title_color=64FFDA&bg_color=0A192F&text_color=E6F1FF&border_color=64FFDA&layout=compact&langs_count=6" height="169.39" />
 </p>
+<p>
+  <img align="center" src="https://matthieu-locussol-github-stats.vercel.app/api/wakatime?username=matthieulocussol&langs_count=3&title_color=64FFDA&bg_color=0A192F&text_color=E6F1FF&border_color=64FFDA" height="169.39" />
+</p>
